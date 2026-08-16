@@ -38,6 +38,10 @@
         "source": "https://github.com/pear/Auth_SASL"
     },
     "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "pear/pear-core-minimal": "*"
+    },
     "require-dev": {
         "phpunit/phpunit": "@stable"
     }
