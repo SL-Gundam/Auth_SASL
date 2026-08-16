@@ -1,3 +1,10 @@
+## Fork Information
+
+This repository is a fork of pear/Auth_SASL.
+
+The fork contains modifications required by the EmailReporting plugin for MantisBT and is maintained by SL-Gundam.
+
+
 # Auth_SASL - Abstraction of various SASL mechanism responses
 
 [![Build Status](https://travis-ci.org/pear/Auth_SASL.svg?branch=master)](https://travis-ci.org/pear/Auth_SASL)
