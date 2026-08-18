@@ -7,9 +7,6 @@ The fork contains modifications required by the EmailReporting plugin for Mantis
 
 # Auth_SASL - Abstraction of various SASL mechanism responses
 
-[![Build Status](https://travis-ci.org/pear/Auth_SASL.svg?branch=master)](https://travis-ci.org/pear/Auth_SASL)
-    
-
 Provides code to generate responses to common SASL mechanisms, including:
 - Anonymous
 - Cram-MD5 (DEPRECATED)
